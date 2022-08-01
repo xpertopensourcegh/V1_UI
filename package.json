@@ -10,7 +10,7 @@
     },
     "dependencies": {
         "@journeyapps/sqlcipher": "^3.2.1",
-        "@octokit/rest": "~15.18.1",
+        "@octokit/rest": "~16.0.4",
         "@peculiar/x509": "^1.6.1",
         "archiver": "^4.0.2",
         "async": "^2.4.0",
