@@ -70,7 +70,7 @@
         "passport-jwt": "^4.0.0",
         "passport-local": "~0.1.6",
         "passport-oauth2-client-password": "^0.1.2",
-        "passport-saml": "^3.2.0",
+        "passport-saml": "^3.2.2",
         "pg": "^6.4.1",
         "pug": "^2.0.0-rc.4",
         "request": "^2.81.0",
