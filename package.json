@@ -67,7 +67,7 @@
         "parse-github-url": "^1.0.2",
         "passport": "~0.1.17",
         "passport-http-bearer": "^1.0.1",
-        "passport-jwt": "^4.0.0",
+        "passport-jwt": "^4.0.1",
         "passport-local": "~0.1.6",
         "passport-oauth2-client-password": "^0.1.2",
         "passport-saml": "^3.2.0",
