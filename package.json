@@ -12,7 +12,7 @@
         "@journeyapps/sqlcipher": "^3.2.1",
         "@octokit/rest": "~15.18.1",
         "@peculiar/x509": "^1.6.1",
-        "archiver": "^4.0.2",
+        "archiver": "^7.0.0",
         "async": "^2.4.0",
         "babel-cli": "^6.26.0",
         "babel-core": "^6.26.3",
