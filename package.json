@@ -54,7 +54,7 @@
         "jsonschema": "^1.2.4",
         "jsonwebtoken": "^8.3.0",
         "ldapauth-fork": "^4.2.0",
-        "ldapjs": "^1.0.2",
+        "ldapjs": "^3.0.7",
         "line-by-line": "^0.1.6",
         "lodash": "^4.17.19",
         "log4js": "^4.5.1",
