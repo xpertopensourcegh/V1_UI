@@ -72,7 +72,7 @@
         "passport-oauth2-client-password": "^0.1.2",
         "passport-saml": "^3.2.0",
         "pg": "^6.4.1",
-        "pug": "^2.0.0-rc.4",
+        "pug": "^3.0.0",
         "request": "^2.81.0",
         "request-promise": "^4.2.2",
         "sanitize-filename": "^1.6.3",
